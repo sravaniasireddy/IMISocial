@@ -1,0 +1,2 @@
+# IMISocial
+Sanity Testcases
